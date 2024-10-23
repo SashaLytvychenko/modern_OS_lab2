@@ -1,0 +1,4 @@
+﻿  SharedMemory.c
+D:\StudWork\C\IPCMethods\Shared memory\SharedMemory\SharedMemory\SharedMemory.c(70,105): warning C4133: 'function': incompatible types - from 'char [20]' to 'LPCWSTR'
+D:\StudWork\C\IPCMethods\Shared memory\SharedMemory\SharedMemory\SharedMemory.c(77,64): warning C4133: 'function': incompatible types - from 'char [20]' to 'LPCWSTR'
+  SharedMemory.vcxproj -> D:\StudWork\C\IPCMethods\Shared memory\SharedMemory\x64\Debug\SharedMemory.exe

@@ -1,0 +1,7 @@
+﻿  mmap1.c
+C:\Users\sasha\Downloads\IPCMethods\mmap\mmap1\mmap1\mmap1.c(15,78): warning C4307: "*": переполнение целой константы со знаком
+C:\Users\sasha\Downloads\IPCMethods\mmap\mmap1\mmap1\mmap1.c(24,72): warning C4307: "*": переполнение целой константы со знаком
+C:\Users\sasha\Downloads\IPCMethods\mmap\mmap1\mmap1\mmap1.c(36,28): warning C4307: "*": переполнение целой константы со знаком
+C:\Users\sasha\Downloads\IPCMethods\mmap\mmap1\mmap1\mmap1.c(60,24): warning C4133: функция: несовместимые типы - из "char [19]" в "LPCWSTR"
+C:\Users\sasha\Downloads\IPCMethods\mmap\mmap1\mmap1\mmap1.c(67,62): warning C4307: "*": переполнение целой константы со знаком
+  mmap1.vcxproj -> C:\Users\sasha\Downloads\IPCMethods\mmap\mmap1\x64\Debug\mmap1.exe
